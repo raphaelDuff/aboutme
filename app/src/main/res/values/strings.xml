@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Raphael Prates</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, I am Raphael.\n\nI am interested about smart solutions, how software works and now in Android Developing using Kotlin.\n\nI\'ve been working in Software Development for 5 years. As my activities I create scripts to compile Android OS for LG\'s smartphones and also act in the field of configuration management (GIT version control and artefacts management).\n\nIn order to make the work faster and safer, I like to develop automation tools and WebApps using mostly bash,R and RShiny.\n\nIn my free time I like to walk by the beach, play saxophone, Counter Strike and read all the fabulous histories written in books.\n\nLet\'s create together!\n\n</string>
+    <string name="bio_thunder_image">Thunder View Image</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string> />
+</resources>
